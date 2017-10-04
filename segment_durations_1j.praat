@@ -49,7 +49,9 @@
 # - added cyrillic vowel letters and "1" to non-stops list
 # - added geminate column
 
-
+### TO DO list
+# - built in acoustic voicing analysis
+# - built in auditory/visual voicing analysis
 
 form start
 	comment Where is the folder with the textgrids?
